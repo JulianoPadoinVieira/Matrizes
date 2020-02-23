@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_81_Matrizes_Exercico_de_Fixação</RootNamespace>
+  </PropertyGroup>
+
+</Project>
